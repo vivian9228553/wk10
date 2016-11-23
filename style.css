@@ -5,6 +5,7 @@ html{
 	width: 1280px;
 	height: 1850px;
 	background-color: #f6f6f5;
+	margin:auto;
 }
 body{
 	margin: 0px;
@@ -12,9 +13,7 @@ body{
 	width: 1280px;
 	height:1850px;
 }
-.page{
-	margin:auto;
-}
+
 .content-sizing{
 	box-sizing: border-box;
 	margin-left: 225px;
